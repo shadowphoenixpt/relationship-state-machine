@@ -1,4 +1,6 @@
-# Relationship State Machine Evaluator
+# Relationship State Machine Evaluator (just for fun)
+
+WARNING: Entirely Vibe Codded. Just trying to see if AI could describe human behaviour using math. Use at your own peril.
 
 A command-line tool for evaluating relationship dynamics using behavioral patterns over time, rather than single events or emotional interpretation.
 
